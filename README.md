@@ -1,2 +1,2 @@
 # Sistema-Prediccion-Futbol
-Sistema de predicción de resultados de partidos de fútbol .
+ENTRAR AL COLAB Y EJECUTAR , YA QUE SE AUTOMATIZO PARA NO ESTAR CARGANDO LOS DATOS .
